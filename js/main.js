@@ -8,23 +8,23 @@ function help(){
   </tr>\
   <tr>\
     <td>about</td>\
-    <td>Everything you ever wanted to know about Julio Gamboa</td>\
+    <td>What you want to know about me</td>\
   </tr>\
   <tr>\
     <td>contact</td>\
-    <td>How to get in touch with Julio Gamboa</td>\
+    <td>How to get in touch with me</td>\
   </tr>\
   <tr>\
     <td>links</td>\
-    <td>See what links Julio Gamboa wants you to click on</td>\
+    <td>See what links Julen wants you to click on</td>\
   </tr>\
   <tr>\
     <td>skills</td>\
-    <td>Get to know how good Julio Gamboa  is at stuff</td>\
+    <td>Get to know how good Julen is at stuff</td>\
   </tr>\
   <tr>\
     <td>cv</td>\
-    <td>Download Julio Gamboa's CV</td>\
+    <td>Download Julen's CV</td>\
   </tr>\
   </tr></table>";
 }
