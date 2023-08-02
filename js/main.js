@@ -54,6 +54,10 @@ function skills(){
     <td>▰▰▰▰▰▰▰▰▱▱ 80%</td>\
   </tr>\
   <tr>\
+    <td>SQL (MySQL primarily)</td>\
+    <td>▰▰▰▰▰▰▰▰▱▱ 80%</td>\
+  </tr>\
+  <tr>\
     <td>Git/GitHub/Version control</td>\
     <td>▰▰▰▰▰▰▰▱▱▱ 70%</td>\
   <tr>\
