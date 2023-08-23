@@ -80,7 +80,7 @@ function cv(){
 }
 
 function portfolio(){
-  return "<span style=\"color:#8abeb7;\"><h2>Projects:</h2></span><p>\tProject:<a href=\"src/credit_risk_analysis_ml_models_report.html\" target=\"_blank\" style=\"text-decoration: underline;\">Sample Credit Risk Analysis</a>.</p>";
+  return "<span style=\"color:#8abeb7;\"><h2>Portfolio:</h2></span><p>\tProject:<a href=\"src/credit_risk_analysis_ml_models_report.html\" target=\"_blank\" style=\"text-decoration: underline;\">Sample Credit Risk Analysis</a>.</p>";
 }
 
 function credits(){
