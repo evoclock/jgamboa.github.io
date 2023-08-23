@@ -47,7 +47,7 @@ function skills(){
   </tr>\
   <tr>\
     <td>Python</td>\
-    <td>▰▰▰▰▰▰▱▱▱▱ 60%</td>\
+    <td>▰▰▰▰▰▰▰▱▱▱ 70%</td>\
   </tr>\
   <tr>\
     <td>GNU Bash (inc. awk/sed/grep/regex)</td>\
@@ -79,8 +79,8 @@ function cv(){
   return "<span style=\"color:#8abeb7;\"><h2>CV:</h2></span><p>\tDownload from <a href=\"src/J_Gamboa_CV.pdf\" target=\"_blank\" style=\"text-decoration: underline;\">here</a>.</p>";
 }
 
-function project1(){
-  return "<span style=\"color:#8abeb7;\"><h2>CV:</h2></span><p>\tDownload from <a href=\"src/credit_risk_analysis_ml_models_report.html\" target=\"_blank\" style=\"text-decoration: underline;\">Sample Credit Risk Analysis</a>.</p>";
+function portfolio(){
+  return "<span style=\"color:#8abeb7;\"><h2>Projects:</h2></span><p>\tProject:<a href=\"src/credit_risk_analysis_ml_models_report.html\" target=\"_blank\" style=\"text-decoration: underline;\">Sample Credit Risk Analysis</a>.</p>";
 }
 
 function credits(){
