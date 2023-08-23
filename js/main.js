@@ -79,6 +79,10 @@ function cv(){
   return "<span style=\"color:#8abeb7;\"><h2>CV:</h2></span><p>\tDownload from <a href=\"src/J_Gamboa_CV.pdf\" target=\"_blank\" style=\"text-decoration: underline;\">here</a>.</p>";
 }
 
+function project1(){
+  return "<span style=\"color:#8abeb7;\"><h2>CV:</h2></span><p>\tDownload from <a href=\"src/credit_risk_analysis_ml_models_report.html\" target=\"_blank\" style=\"text-decoration: underline;\">Sample Credit Risk Analysis</a>.</p>";
+}
+
 function credits(){
   return "<p>Built by <a href=\"https://www.github.com/CedArctic\" target=\"_blank\"><i class=\"fab fa-github\"></i> CedArctic</a></p>";
 }
