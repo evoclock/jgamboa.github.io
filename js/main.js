@@ -81,6 +81,7 @@ function cv(){
 
 function portfolio(){
   return "<span style=\"color:#8abeb7;\"><h2>Portfolio:</h2></span><p>\tProject:<a href=\"src/credit_risk_analysis_ml_models_report.html\" target=\"_blank\" style=\"text-decoration: underline;\">Sample Credit Risk Analysis</a>.</p>";
+
 }
 
 function credits(){
@@ -110,7 +111,7 @@ function commandProcessor(e){
     if(txtInput == "help"){
       document.getElementById('injected').innerHTML=help();
     }else if (txtInput=="all") {
-      document.getElementById('injected').innerHTML=about() + "\n\n\n" + skills() + "\n\n\n" + links() + "\n\n\n" + contact() + "\n\n\n" + cv();
+      document.getElementById('injected').innerHTML=about() + "\n\n\n" + skills() + "\n\n\n" + portfolio() + "\n\n\n" + links() + "\n\n\n" + contact() + "\n\n\n" + cv();
     }else if (txtInput == "about") {
       document.getElementById('injected').innerHTML=about();
     }else if (txtInput == "contact") {
