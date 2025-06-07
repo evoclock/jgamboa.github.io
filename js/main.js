@@ -40,27 +40,23 @@ function contact(){
 }
 
 function skills(){
-  return "<h2><span style=\"color:#81a2be;\">Programming skills:</span></h2><table>\
+  return "<h2><span style=\"color:#81a2be;\">Programming languages:</span></h2><table>\
   <tr>\
     <td>R/RStudio/Tidyverse</td>\
     <td>▰▰▰▰▰▰▰▰▰▱ 90%</td>\
   </tr>\
   <tr>\
     <td>Python</td>\
-    <td>▰▰▰▰▰▰▰▱▱▱ 70%</td>\
+    <td>▰▰▰▰▰▰▰▱▱▱ 90%</td>\
   </tr>\
   <tr>\
     <td>GNU Bash (inc. awk/sed/grep/regex)</td>\
     <td>▰▰▰▰▰▰▰▰▱▱ 80%</td>\
   </tr>\
   <tr>\
-    <td>SQL (MySQL primarily)</td>\
+    <td>SQL (various flavours of)</td>\
     <td>▰▰▰▰▰▰▰▰▱▱ 80%</td>\
   </tr>\
-  <tr>\
-    <td>Git/GitHub/Version control</td>\
-    <td>▰▰▰▰▰▰▰▱▱▱ 70%</td>\
-  <tr>\
     <td>Perl</td>\
     <td>▰▰▰▰▰▱▱▱▱▱ 50%</td>\
   </tr>\
@@ -72,11 +68,11 @@ function skills(){
 }
 
 function about(){
-  return "<p>I am a computational biologist by training with expertise in a wide range of tools and languages such as R, Python, and GNU Bash, as well as statistical and machine learning methods such as XGBoost and HDBSCAN. What truly motivates me is thinking deeply about the underlying processes that generate any dataset I work with.  I believe in the power of interdisciplinary knowledge, as it allows me to approach challenges from different perspectives and find innovative solutions.</p>";
+  return "<p>I am a data scientist and computational biologist with experience delivering complex analytical solutions across both government operations and academic research. My work combines statistical modelling, machine learning, and domain expertise to build robust, scalable pipelines that support real-world decision-making. I have developed and deployed data science models for fraud detection, financial assurance, forecasting, and network risk analysis using technologies such as Python, R, Databricks, Azure DevOps, MLflow, and NLP frameworks like BERT and GPT-2. In parallel, my doctoral research applies advanced sequence modelling, transformer-based embeddings, and multimodal clustering to explore how biological variation drives functional differences across organisms. What motivates me is understanding the underlying processes that generate the data — and designing models that capture that complexity while remaining actionable. I believe interdisciplinary thinking is critical to solving modern data challenges, as it allows me to approach problems from multiple perspectives and design solutions that balance technical rigour with practical impact.</p>";
 }
 
 function cv(){
-  return "<span style=\"color:#8abeb7;\"><h2>CV:</h2></span><p>\tDownload from <a href=\"src/J_Gamboa_CV.pdf\" target=\"_blank\" style=\"text-decoration: underline;\">here</a>.</p>";
+  return "<span style=\"color:#8abeb7;\"><h2>CV:</h2></span><p>\tDownload from <a href=\"src/JGamboa_CV.pdf\" target=\"_blank\" style=\"text-decoration: underline;\">here</a>.</p>";
 }
 
 function portfolio(){
