@@ -42,12 +42,12 @@ function contact(){
 function skills(){
   return "<h2><span style=\"color:#81a2be;\">Programming languages:</span></h2><table>\
   <tr>\
-    <td>R/RStudio/Tidyverse</td>\
+    <td>Python</td>\
     <td>▰▰▰▰▰▰▰▰▰▱ 90%</td>\
   </tr>\
   <tr>\
-    <td>Python</td>\
-    <td>▰▰▰▰▰▰▰▱▱▱ 90%</td>\
+    <td>R/RStudio/Tidyverse</td>\
+    <td>▰▰▰▰▰▰▰▰▰▱ 90%</td>\
   </tr>\
   <tr>\
     <td>GNU Bash (inc. awk/sed/grep/regex)</td>\
